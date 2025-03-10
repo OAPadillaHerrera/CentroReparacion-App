@@ -1,3 +1,3 @@
 
 
-Diseño y Desarrollo de una Aplicación Web para un Sistema De Gestión De Información, Centro De Reparación De Equipos Móviles.
+Diseño y Desarrollo de una Aplicación Web para un Sistema de Gestión de Información, Centro de Reparación de Equipos Móviles.
